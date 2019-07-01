@@ -4,7 +4,10 @@
 ***This is an example of Web Scraping using Scrapy (a Python package) and Python***
 
 #### 1. Install the latest version of Python in your computer
-#### 2. Open up a terminal and install Scrapy using the command: pip install scrapy
+
+#### 2. Open up a terminal and install Scrapy using the command(After installing Python):
+    $ C:\Users\YOU> pip install Scrapy
+    
 #### 3. Clone this repository anywhere in your computer
 
 #### 4. In a terminal, cd into the project directory and navigate to the directory where the settings and pipelines file are.
@@ -16,6 +19,7 @@
     $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider
 
 #### 6. The spider will crawl the website and display the results in the terminal
+
 #### 7. You can choose to output the results in file format like JSON or XML
 
     $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider -o movies.json
