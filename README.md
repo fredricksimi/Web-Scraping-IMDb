@@ -9,18 +9,18 @@
 
 #### 4. In a terminal, cd into the project directory and navigate to the directory where the settings and pipelines file are.
 
-######## $ C:\Users\YOU\Desktop\MovieSpider>
+    $ C:\Users\YOU\Desktop\MovieSpider>
 
 #### 5. Run the following command: scrapy crawl greatspider
 
-######## $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider
+    $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider
 
 #### 6. The spider will crawl the website and display the results in the terminal
 #### 7. You can choose to output the results in file format like JSON or XML
 
-######## $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider -o movies.json
-#### or
-######## $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider -o movies.xml
+    $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider -o movies.json
+   or
+    $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider -o movies.xml
 
 
 ### Congratulations!
