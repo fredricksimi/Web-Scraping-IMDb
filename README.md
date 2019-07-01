@@ -19,7 +19,7 @@
 #### 7. You can choose to output the results in file format like JSON or XML
 
     $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider -o movies.json
-   or
+
     $ C:\Users\YOU\Desktop\MovieSpider> scrapy crawl greatspider -o movies.xml
 
 
